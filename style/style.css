@@ -1,7 +1,7 @@
  html {
      box-sizing: border-box;
      font-size: 10px;
-     background: #ffc600;
+     background: #9ACD32;
  }
 
  *,
@@ -38,7 +38,7 @@
      padding: 1rem;
      border: 0.15rem solid black;
      border-radius: 5px;
-     background-color: #ffcf4a;
+     background-color: #9ACD32;
      text-transform: uppercase;
      font-family: 'Amatic SC';
      font-weight: bold;
@@ -80,7 +80,7 @@
  }
 
  .mole {
-     background: url('../images/mole.svg') bottom center no-repeat;
+     background: url('../images/avocado.png') bottom center no-repeat;
      background-size: 60%;
      position: absolute;
      top: 100%;
